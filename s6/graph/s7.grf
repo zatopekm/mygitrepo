@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="Kokon" created="Mon Nov 23 16:19:07 CET 2015" guiVersion="0.0.0.devel" id="1448298057158" licenseCode="Commercial Devel" licenseType="Commercial" modified="Mon Nov 23 18:01:01 CET 2015" modifiedBy="Kokon" name="s7" revision="1.1" showComponentDetails="true">
+<Global>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Dictionary/>
+</Global>
+<Phase number="0">
+<Node guiName="Success" guiX="268" guiY="210" id="SUCCESS" type="SUCCESS"/>
+</Phase>
+</Graph>
