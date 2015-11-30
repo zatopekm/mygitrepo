@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="Kokon" created="Thu Nov 26 15:37:08 CET 2015" guiVersion="0.0.0.devel" id="1448552851717" licenseCode="Commercial Devel" licenseType="Commercial" modified="Thu Nov 26 15:37:08 CET 2015" modifiedBy="Kokon" name="g" revision="1.0" showComponentDetails="true">
+<Global>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Dictionary/>
+</Global>
+</Graph>
